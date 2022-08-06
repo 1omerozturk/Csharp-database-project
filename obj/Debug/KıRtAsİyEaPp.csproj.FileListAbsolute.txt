@@ -1,0 +1,9 @@
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Form1.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Form2.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Form3.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Form4.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Form5.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.Properties.Resources.resources
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\KıRtAsİyEaPp\KıRtAsİyEaPp\obj\Debug\KıRtAsİyEaPp.csproj.CoreCompileInputs.cache
